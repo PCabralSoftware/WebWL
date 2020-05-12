@@ -1,5 +1,5 @@
 # WebWL
-![](https://img.shields.io/github/v/release/PCabralSoftware/WebWL?style=flat-square) ![](https://img.shields.io/github/license/PCabralSoftware/WebWL?style=flat-square) ![](https://img.shields.io/badge/Made%20with-Wolfram%20Language-red?style=flat-square)
+![](https://img.shields.io/github/v/release/PCabralSoftware/WebWL?style=flat-square&include_prereleases) ![](https://img.shields.io/github/license/PCabralSoftware/WebWL?style=flat-square) ![](https://img.shields.io/badge/Made%20with-Wolfram%20Language-red?style=flat-square)
 
 A powerful file-system based web framework powered by the Wolfram Language. Use HTML files with special tags to execute code dynamically, serve files, and much more. Compatible from versions from **11.2.0** ─ **12.1.0**.
 
